@@ -1,0 +1,4 @@
+shellcoin
+=========
+
+Cryptocurrency coin
